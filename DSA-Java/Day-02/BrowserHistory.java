@@ -121,7 +121,7 @@ public class BrowserHistory {
                     return;
 
                 default:
-                    System.out.println("Invalid choice. Please try again.");
+                    System.out.println("Invalid choice. Please Try Again.");
             }
         }
     }
